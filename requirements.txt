@@ -1,1 +1,3 @@
 We will sepcify the required libraries to imported for our project here
+pandas
+numpy
